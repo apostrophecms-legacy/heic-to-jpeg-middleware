@@ -1,3 +1,7 @@
+# ⛔️ **DEPRECATED** — do not use for new projects
+
+See [our current docs](https://docs.apostrophecms.org/)
+
 ```javascript
 const multipart = require('connect-multiparty')();
 const heicToJpeg = require('heic-to-jpeg-middleware')();
